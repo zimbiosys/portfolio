@@ -55,12 +55,12 @@
          3.1.1 SQL SERVER 2014
          
          Pros of using this technology
-         1 - Scalability: SQL SERVER is well knowed for being capable by handle big data quantity and vertical and horizontal
-         scalability. It can grow up depending on application´s needings.
+         1 - Scalability: SQL SERVER is well knowed for being capable by handle big data quantity and          vertical and horizontal scalability. It can grow up depending on application´s needings.
 
          2 - Security:
-         Offers data cyfer, integrated authentication and access control. Is fundamental to protect sensitive data confidenciality.
+         Offers data cyfer, integrated authentication and access control. Is fundamental to protect            sensitive data confidenciality.
          
-         
+         3 - Integration with other Microsoft´s tools:
+         SQL SERVER integrates well with 
       
       
