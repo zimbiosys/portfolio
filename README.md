@@ -31,13 +31,21 @@
       ● Login
 
       Administrative:
+      
       ● Administrative´s CRUD
+      
       ● Driver´s CRUD
+      
       ● Enterprise´s CRUD
+      
       ● Package´s CRUD
+      
       ● Vehicle´s CRUD
+      
       ● Request´s CRUD
+      
       ● Driver´s sanctions and suspentions
+      
       ● Penalty fee´s registration (asociated to a vehicle and driver)
 
       3. TECHNOLOGIES
