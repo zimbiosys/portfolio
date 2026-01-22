@@ -55,12 +55,69 @@
          3.1.1 SQL SERVER 2014
          
          Pros of using this technology
-         1 - Scalability: SQL SERVER is well knowed for being capable by handle big data quantity and          vertical and horizontal scalability. It can grow up depending on application´s needings.
+         1 - Scalability: SQL SERVER is well knowed for being capable by handle big data          quantity and vertical and horizontal scalability. It can grow up depending on            application´s needings.
 
          2 - Security:
-         Offers data cyfer, integrated authentication and access control. Is fundamental to protect            sensitive data confidenciality.
+         Offers data cyfer, integrated authentication and access control. Is fundamental          to protect sensitive data confidenciality.
          
          3 - Integration with other Microsoft´s tools:
-         SQL SERVER integrates well with 
+         SQL SERVER integrates well with other Microsoft's tools, like .NET Framework,            Visual Studio development and Azure. All this allows to develop and to                   implement complete solutions.
+
+         4 . Database administration:
+         Offers a huge diversity of administrative tools tasking backup, as security              copies, recovering against disasters, database maintenance and queries         optmimization.
+
+         Contras of using this technology:
+
+         1 - Cost:
+
+         Can be costous, specially for small enterprises and startups. Also powerfull hardware could be required.
+
+         2 - Specific platform:
+
+         Can be excuted on Windows and Linux, but is specific of Windows. This can limitate flexibility.
+
+         3 - Learning curve:
+
+         For new users, learning curve can be high.
+
+         4 - Hardware requirements
+
+         Can require a significative amount of hardware and software resources, becoming a challenge to small enterprises.
+
+         Why SQL SERVER ??
+
+         This technology became efective at development stage and set on function the database. The learning curve was almost nule due the previous experience and was not powerfull hardware needed to execute it. This technology offered great value to the project.
+
+   3.1.2 IIS SERVER HOSTED LOCALLY
+
+   1 - Integers very well with Windows and is the option by default to hosting of Web applications on Windows environment.
+
+   2 - Performance
+
+   Has a solid performance and is capable to handle heavy duty tasks. Is optimized to work with Microsoft technologies.
+
+   3 - Security
+
+   Offers many security options, like integrated authentication, roles based authentication, SSL/TLS encryption, protection against atacks.
+
+   4 - Administration tools
+
+   Offers strong admnistrative tools, like IIS administrator.
+
+   - Learning curve
+  
+     As previous experience, learning for this project was not necessary.
+
+     This technology was choosen because currently applications are developed as Microsoft native applications, and this server is ideal.
+
+     3.3. FRONT END
+
+3.3.1. Xamarin
+
+1 - Multiplatform development
+
+Xamarin allows mobile applications development for iOS, Android 
+   
+         
       
       
