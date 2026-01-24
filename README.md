@@ -110,14 +110,130 @@
 
      This technology was choosen because currently applications are developed as Microsoft native applications, and this server is ideal.
 
-     3.3. FRONT END
+URL's server: https://ansuz.ddns.net
+
+
+3.3. FRONT END
 
 3.3.1. Xamarin
 
-1 - Multiplatform development
+1 - Multiplatform development:
 
-Xamarin allows mobile applications development for iOS, Android 
+Xamarin allows mobile apps, iOS, Android and Windows development using an unique C# base code, based on the adquired knowledgements along the career.
+
+2 - Complete access to native APIs of each platform (iOS, Windows and Android) using native SDKs.
+
+3 - Code reutilization
+
+Xamarin uses an unique programming language (C#) and an unique base code. It can be reuse a big portion of code between platforms (Windows, iOS and Android), increasing development process speed and reducing costs. 
+
+4 - Integration with Visual Studio:
+
+Xamarin integers perfectly with Visual Studio, allowing access to all development tools.
+
+1 - Learning curve
+
+For this project the learning curve was big, due to previous unknowledgement of APIs development
+
+2 - Compatibility and actualizations
+
+Compatibility problems, cos depends on native platforms iOS and Android changes and actulizations. 
+
+Why was choosen??
+
+. Because language C# is already knowed.
+
+. Is multiplatform, iOS and Andorid APIs can be accessed.
+
+. Once Xamarin fundations are dominated, is a language with a big potential.
+
+3.3.2. WEB Site
+
+ASP.NET MVC technology was choosen due its numerous banefits and capacities.
+Offers an structured and flexible focusing for Model - View - Controller web development patron.
+ Allows to clearly separate responsabilities, making easy code maintenance and colaboration in development team.
+
+ Why ASP.NET ?
+
+ Allows to control HTML, CSS and JavaScript creation to personalize user interface. Making use of this hability to integrate libraries and frontend frameworks, was the way to fusionate Razor code with JavaScript to show up the map to register a new Package.
+
+ 3.4. SUPPORT TECHNOLOGIES
+
+ 3.4.1 SOFTWARE
+
+ 3.4.1.1. IDE
+
+ 3.4.1.2 VISUAL STUDIO 2022
+
+ 1 - Visual Studio offers a complete integrated development environment, that includes code edition tools, depuration, compilation and projects management. 
+
+ 2 - Multiplatform support:
+
+ Visual Studio is compatible with a wide range of technologies, like: 
+ C#, .NET, C++, JavaScript, Python, and a lot more. 
+ Allows development to diferent platforms: Windows, web, mobiles and cloud.
+
+
+3 - Wide community and support
+
+Has a big developer's community and a wide learnig sources platform, documentation and on line support.
+
+
+Wny was choosen ?
+
+Because there was previous experience programming in C#, and to programming in Android was too much friendly. 
    
-         
-      
-      
+
+3.4.1.2.2. Windows virtualization
+
+3.4.1.2.2.1 VMWare
+
+1 - Virtualization is very eficient, emulating perfectly Windows OS that was used in this project.
+
+2 - Wide compatibility
+
+Is compatible with too much operating systems.
+
+3 - Advanced functions:
+
+Offers characteristics like hot migration (move a virtual machine to a new host without shutdown the virtual machine), high availability, recovering against disasters, etc. 
+
+4 - In virtualization are efectively executed:
+
+- IIS server
+- SQL Server DB consumed by web site and Api
+- Web Site that consumes DB
+- API consumed by Mobile App
+
+
+3.4.1.3 NO IP
+This software was used to transform dinamic IP into an static IP, that is necessary to access from Internet to IIS server and its applications.
+
+Advantages of using this technology:
+
+1 - Easy configuration
+
+Posible risks of using this technology:
+
+1 - Posible reliability problems: depend on a third party service to assing a domain name to an static IP address, exists the risk of posible shutdown service.
+
+2 - Security: to use a DNS dinamic service is necessary to set up security on devices and connected services, specially when are accesed from Internet.
+
+Was used because is the ideal option to obtain an static IP.
+
+3.4.1.4. Google Maps API
+
+Google Maps API integration on projet was choosen because is an powerfull option to take advantage of mapping and geolocation services.
+Offers a wide set of functionalities, from visualization of interactive maps to rutes and geoloaction. This makes easy the Driver´s task to moment to manage package pickups and deliveries. Is supported by Google´s service and infraestructure, that secure to be always available and to have and optimum performance. Is the ideal option for this project.
+
+3.4.1.5 JMETER
+
+The charge and stress tests are fundamental technics in software development to evaluate the performance of an application in simulated charge conditions.
+JMeter is an open source tool developed by Apache and is very popular to execute this tests.
+JMeter simulate the real user behaviour interacting with the System on simultaneous way increasing too much the working charge on the systems. Is useful to evaluate the performance of the System on limit conditions reaching its maximum capacity 
+
+
+
+
+
+
