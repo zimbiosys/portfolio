@@ -1,4 +1,6 @@
-*** IN CASE BE NECESSARY, REQUEST ACCESS TO FULL SOFTWARE DOCUMENT ***
+*** THIS PROJECT INCLUDES COMPLETE SOFTWARE ENGINEERING DOCUMENTATION (REQUIREMENTS, USE CASES, DIAGRAMS, TECHNICAL DESIGN, TESTING PLAN)
+
+FOR PRIVACY REASONS, IT IS NOT PUBLISHED HERE, BUT IT CAN BE REQUESTED. ***
 
 1. INTRODUCTION
    THIS IS A FICTIONARY PROJECT USED AS PORTFOLIO
@@ -229,10 +231,78 @@ Offers a wide set of functionalities, from visualization of interactive maps to 
 
 The charge and stress tests are fundamental technics in software development to evaluate the performance of an application in simulated charge conditions.
 JMeter is an open source tool developed by Apache and is very popular to execute this tests.
-JMeter simulate the real user behaviour interacting with the System on simultaneous way increasing too much the working charge on the systems. Is useful to evaluate the performance of the System on limit conditions reaching its maximum capacity 
+JMeter simulate the real user behaviour interacting with the System on simultaneous way increasing too much the working charge on the systems. Is useful to evaluate the performance of the System on limit conditions reaching its maximum capacity, or overcharge it to identify bottelnecks.
+
+3.4.1.6 Blazemeter
+
+Is an Google Chrome´s plug in. Its function is to record the user´s interactions with internet browser. That interactions are recorded and can be exported to an .jmx file to be executed on JMeter. In other therms, sessions init can be recorded to do more specific stress charges.
+
+3.5 Software distribution
+
+3.5.1 Spanish version
+
+3.5.1.1 Web
+
+https://ansuz.ddns.net/es
+
+3.5.1.2 Downloadable Android app (for testing)
+
+https://play.google.com/apps/testing/com.ansuzes.codecraft
+
+3.5.2 English version
+
+3.5.2.1 Web
+
+https://ansuz.ddns.net/en
+
+3.5.2.2 Downloadable Android app (for testing)
+
+https://play.google.com/apps/testing/com.ansuzen.codecraft
+
+4 - My rol on the whole project
+
+I was in charge of all the development cycles:
+
+. Analysis and requirement´s compilation
+. Technical and functional design
+. Development of both applications (Web and Mobile)
+. Data base and Service integration
+. Tests and errors correction
+. Publishing and maintenance
+
+5. Learned lessons
+
+   Was a challenging and enriching project and can be enumerated several learned leassons from it:
+
+    - Time and dedication management were fundamentals, being necessary long term focusing and perserverance in objetive´s achievemnt despite the challenges.
+
+- During development time was inevitable to face frustration and stress moments. Resilience w necessary to handle a long term project.
+
+- Calculated risks were asumpted, to face up hard decisions at moment of choose technologies. That risks allowed to go ahead and develop the right solutions.
+
+- Was necessary to be flexible against changes and challenges
+
+- Risk assumption on unknown technical issues, meaned commited errors that was a valuable learning along the project.
+
+- Was fundamental develop deep analysis capacity to problems detection and alternative solution creation.
 
 
+/------------HOW TO ACCESS THE SYSTEM------------/
 
+- ACCESS DATA TO WEB SYSTEM (Administrative user):
+
+  user: ansuz
+
+  pass: aEr34!
+
+  - ACCESS DATA TO APP MOBILE (Driver user):
+ 
+    user: CREATE USER
+
+    pass: CREATE PASS
+
+
+- ACCESS DATA AS CUSTOMER (MUST REGISTER IN WEB SYSTEM)
 
 
 
